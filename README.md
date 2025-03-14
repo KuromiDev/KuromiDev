@@ -17,12 +17,13 @@
 **Hobbies:**
 - **Website Development:** Creating unique and interesting websites 
 - **UI Design:** Crafting visually appealing and functional interfaces
+- **Self Hosting**: Running and managing self hosted server applications
 
 ---
 
 ## 🌱 Current Projects
 
-- Developing a **password manager** in **C++** using **Qt** for secure data storage
+- Maintaining and expanding my **Home Server** and learning more about networking
 - Building a **Web App** with **Letter Creation and Sending Functionality** in **HTML/CSS/JS**
 
 ---
