@@ -24,7 +24,7 @@
 ## 🌱 Current Projects
 
 - Maintaining and expanding my **Home Server** and learning more about networking
-- Building a **Web App** with **Letter Creation and Sending Functionality** in **HTML/CSS/JS**
+- Building a **Minecraft Utility Mod* in **Java**
 
 ---
 
