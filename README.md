@@ -8,11 +8,11 @@
 ## 🛠️ My Toolkit
 
 **Languages:**
-- **C++**, **Python**, **HTML/CSS/JS**
+- **C++**, **Python**, **HTML/CSS/JS**, **Java**
 
 **Tools:**
-- **Visual Studio Code**, **CLion**, **Idle**
-- **Arch Linux**, **Kali Linux**, **QT**, **CMake**
+- **Visual Studio Code**, **Intellij**, **Idle**
+- **Arch Linux**, **Gradle**
 
 **Hobbies:**
 - **Website Development:** Creating unique and interesting websites 
@@ -24,7 +24,7 @@
 ## 🌱 Current Projects
 
 - Maintaining and expanding my **Home Server** and learning more about networking
-- Building a **Minecraft Utility Mod* in **Java**
+- Building a **Minecraft Utility Mod** in **Java**
 
 ---
 
